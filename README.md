@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://https://www.linkedin.com/in/abdelrhman-sabre-31ab5b258/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Sabre-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/abdelrhman-sabre-31ab5b258" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Sabre-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=61552528540133" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Sabre-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
